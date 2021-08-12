@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eac12c56-87bf-496b-9dc8-9c4b900703f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vM6E1drkqrEDdFAjzDUXFOhj8d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify GET operation with bearer authentication token">
+    <configuration name="Scenario: Verify DELETE operation after POST" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/DELETEPosts.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify DELETE operation after POST$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify DELETE operation after POST$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify DELETE operation after POST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify GET operation for Complex data" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/ComplexDataGET.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify GET operation for Complex data$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify GET operation for Complex data$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify GET operation for Complex data" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify GET operation with bearer authentication token for Json Schema validation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GetPosts.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify GET operation with bearer authentication token for Json Schema validation$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify GET operation with bearer authentication token for Json Schema validation$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify GET operation with bearer authentication token for Json Schema validation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify GET operation with bearer authentication token" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GetPosts.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify GET operation with bearer authentication token$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify GET operation with bearer authentication token$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify GET operation with bearer authentication token" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify PUT operation after POST" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/PUTPost.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APIFramework" />
+      <option name="NAME_FILTER" value="^Verify PUT operation after POST$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify PUT operation after POST$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify PUT operation after POST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: Verify GET operation with bearer authentication token" />
+        <item itemvalue="Cucumber java.Scenario: Verify GET operation for Complex data" />
+        <item itemvalue="Cucumber java.Scenario: Verify GET operation with bearer authentication token for Json Schema validation" />
+        <item itemvalue="Cucumber java.Scenario: Verify PUT operation after POST" />
+        <item itemvalue="Cucumber java.Scenario: Verify DELETE operation after POST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac12c56-87bf-496b-9dc8-9c4b900703f3" name="Default Changelist" comment="" />
+      <created>1626359494665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626359494665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="87" width="1060" height="686" key="#Project_Structure" timestamp="1628763814897">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="87" width="1060" height="686" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1628763814897" />
+    <state x="439" y="116" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1626359974138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="439" y="116" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1600.860@0.0.1600.860" timestamp="1626359974138" />
+    <state x="605" y="112" key="#com.intellij.ide.util.MemberChooser" timestamp="1626943148776">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="112" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1626943148776" />
+    <state x="491" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626787520213">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="491" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1626787520213" />
+    <state x="547" y="177" key="#xdebugger.evaluate" timestamp="1626711979846">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="547" y="177" key="#xdebugger.evaluate/0.0.1600.860@0.0.1600.860" timestamp="1626711979846" />
+    <state x="579" y="184" key="FileChooserDialogImpl" timestamp="1626362066173">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1626362066173" />
+    <state width="1556" height="270" key="GridCell.Tab.0.bottom" timestamp="1628763819813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1628763819813" />
+    <state width="1556" height="270" key="GridCell.Tab.0.center" timestamp="1628763819813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1628763819813" />
+    <state width="1556" height="270" key="GridCell.Tab.0.left" timestamp="1628763819813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1628763819813" />
+    <state width="1556" height="270" key="GridCell.Tab.0.right" timestamp="1628763819813">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1628763819813" />
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom" timestamp="1628763819814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1628763819814" />
+    <state width="1556" height="270" key="GridCell.Tab.1.center" timestamp="1628763819814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1628763819814" />
+    <state width="1556" height="270" key="GridCell.Tab.1.left" timestamp="1628763819814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1628763819814" />
+    <state width="1556" height="270" key="GridCell.Tab.1.right" timestamp="1628763819814">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="270" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1628763819814" />
+    <state x="301" y="6" key="SettingsEditor" timestamp="1626434095710">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="6" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1626434095710" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1626769974403">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1626769974403" />
+    <state x="497" y="162" width="606" height="536" key="find.popup" timestamp="1626534935119">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="497" y="162" width="606" height="536" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1626534935119" />
+    <state x="552" y="350" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1626362067283">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="552" y="350" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1626362067283" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/steps/POSTProfileSteps.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
